@@ -1,0 +1,24 @@
+.border-bottom-dotted {
+  border: 0px;
+  border-bottom: 1px dotted;
+}
+.w-150-px{
+  width: 150px;
+}
+.form-kp-absolute{
+  top: 8%;
+  right: 26%;
+}
+.mr-112-px{
+  margin-right: 112px
+}
+.mr-63-px{
+  margin-right: 63px
+}
+.form-kp-absolute-l{
+  top: 20%;
+  left: 25%;
+}
+.hr-2-px{
+  border-top: 2px solid black;
+}
