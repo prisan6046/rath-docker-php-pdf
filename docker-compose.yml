@@ -19,3 +19,4 @@ services:
       - "8100:80"
     stdin_open: true
     tty: true
+    network_mode: bridge
